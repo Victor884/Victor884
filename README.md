@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Analytics%20Portfolio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20Analytics%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%">
 
 </div>
 
@@ -42,8 +42,8 @@
 + 🎨 Data Visualization & UX Design
 + 🤖 Automação de processos analíticos
 - 🎯 Transformando dados em decisões estratégicas
-! 📊 +3 anos de experiência em análise de dados
-# 🚀 Especialista em DB2 e ecossistemas Big Data
+! 📊 +1 anos de experiência em análise de dados
+# 🚀 Experiência em DB2 e ecossistemas Big Data
 ```
 
 ---
@@ -108,42 +108,14 @@
 
 | Área | Tecnologias | Nível |
 |:----:|:----------:|:-----:|
-| **📈 Business Intelligence** | Power BI, Tableau, DAX, M Language | ⭐⭐⭐⭐⭐ |
-| **🗄️ Database Management** | SQL Server, PostgreSQL, DB2, MongoDB | ⭐⭐⭐⭐⭐ |
-| **⚡ Big Data Processing** | Apache Spark, Hadoop, Databricks | ⭐⭐⭐⭐ |
-| **🔄 ETL/ELT Pipelines** | SSIS, Python, Apache Airflow | ⭐⭐⭐⭐⭐ |
-| **🎨 Data Visualization** | Plotly, D3.js, Matplotlib, Seaborn | ⭐⭐⭐⭐ |
-| **🤖 Process Automation** | Python Scripts, RPA, PowerShell | ⭐⭐⭐⭐⭐ |
+| **📈 Business Intelligence** | Power BI, Tableau, DAX, M Language | ⭐⭐⭐⭐ |
+| **🗄️ Database Management** | SQL Server, PostgreSQL, DB2 | ⭐⭐⭐⭐ |
+| **⚡ Big Data Processing** | Apache Spark, Hadoop | ⭐⭐⭐⭐ |
+| **🔄 ETL/ELT Pipelines** | Python, Apache Airflow | ⭐⭐⭐⭐ |
+| **🎨 Data Visualization** | Plotly, Matplotlib | ⭐⭐⭐ |
+| **🤖 Process Automation** | Python Scripts | ⭐⭐⭐⭐ |
 
 </div>
-
----
-
-## 📈 Pipeline de Análise de Dados
-
-```mermaid
-graph LR
-    A[🗂️ Raw Data] --> B[🔍 Data Discovery]
-    B --> C[🧹 Data Cleaning]
-    C --> D[🔄 ETL Pipeline]
-    D --> E[🗄️ Data Warehouse]
-    E --> F[⚡ Apache Spark]
-    F --> G[📊 Power BI]
-    G --> H[📈 Advanced Analytics]
-    H --> I[🎯 Business Insights]
-    I --> J[🚀 Strategic Decisions]
-    
-    style A fill:#ff6b6b,stroke:#333,stroke-width:2px
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px
-    style D fill:#f39c12,stroke:#333,stroke-width:2px
-    style E fill:#9b59b6,stroke:#333,stroke-width:2px
-    style F fill:#e74c3c,stroke:#333,stroke-width:2px
-    style G fill:#f1c40f,stroke:#333,stroke-width:2px
-    style H fill:#2ecc71,stroke:#333,stroke-width:2px
-    style I fill:#3498db,stroke:#333,stroke-width:2px
-    style J fill:#1abc9c,stroke:#333,stroke-width:2px
-```
 
 ---
 
@@ -169,118 +141,41 @@ graph LR
 <div align="center">
 
 ### 📈 Analytics Dashboard Suite
-**Tecnologias:** Power BI, SQL Server, Python, Azure
-- 🎯 **Impacto:** Redução de 60% no tempo de geração de relatórios
+**Tecnologias:** Power BI, SQL Server, Python
+- 🎯 **Impacto:** Redução de 30% no tempo de geração de relatórios
 - 📊 **Features:** Real-time analytics, predictive models, automated alerts
-- 🚀 **Resultado:** Dashboard utilizado por +200 usuários diariamente
+- 🚀 **Resultado:** Dashboard utilizado por +50 usuários diariamente
 
 ### 🔄 Big Data Pipeline Automatizado  
-**Tecnologias:** Apache Spark, Python, DB2, Airflow
-- ⚡ **Performance:** Processamento de 50M+ registros/dia
-- 🎯 **Confiabilidade:** 99.9% uptime com monitoramento 24/7
+**Tecnologias:** Apache Spark, Python, DB2
 - 📈 **Escalabilidade:** Auto-scaling baseado em volume de dados
 
 ### 🎨 Data Visualization Framework
-**Tecnologias:** D3.js, Python, Figma, React
-- 🏆 **Conquista:** Framework adotado em 15+ projetos internos
-- 🎨 **Design System:** 80+ componentes visuais padronizados
+**Tecnologias:** Python, Figma, React
 - 📱 **Responsividade:** Suporte completo mobile e desktop
 
 </div>
 
 ---
 
-## 🚀 Foco Atual & Objetivos 2024
-
-<div align="center">
-
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "João Victor"
-        self.role = "Data Analyst & Engineer"
-        self.current_focus = [
-            "🤖 Machine Learning Implementation",
-            "📊 Real-time Streaming Analytics", 
-            "🔮 Predictive Modeling",
-            "☁️ Cloud Data Architecture",
-            "🧠 AI-Powered Data Insights"
-        ]
-        
-    def daily_workflow(self):
-        return {
-            "morning": "📊 Dashboard monitoring & data quality checks",
-            "afternoon": "🔄 ETL pipeline optimization", 
-            "evening": "📈 Advanced analytics & ML model training"
-        }
-        
-    def get_motto(self):
-        return "Transforming raw data into strategic gold! ✨"
-```
-
-</div>
-
----
-
-## 📚 Conhecimentos Avançados
-
-<details>
-<summary><b>🔍 Clique para ver mais detalhes técnicos</b></summary>
-
 ### 📊 Business Intelligence
 - **Power BI**: DAX, M Language, Custom Visuals, Power Query
 - **Advanced Analytics**: Time series forecasting, cohort analysis
-- **Data Modeling**: Star schema, dimensional modeling, OLAP cubes
+- **Data Modeling**: Star schema, dimensional modeling
 
 ### 🗄️ Database Expertise  
 - **SQL Advanced**: Window functions, CTEs, stored procedures, optimization
-- **NoSQL**: MongoDB aggregation pipeline, document design
-- **Data Warehousing**: Kimball methodology, slowly changing dimensions
 
 ### ⚡ Big Data Technologies
 - **Apache Spark**: PySpark, Spark SQL, MLlib, Structured Streaming
-- **Data Lakes**: Delta Lake, Parquet optimization, partitioning strategies
-- **Cloud Platforms**: Azure Synapse, AWS Redshift, Google BigQuery
 
 ### 🤖 Automation & ML
-- **ETL Orchestration**: Apache Airflow, Azure Data Factory
-- **Machine Learning**: Scikit-learn, TensorFlow, feature engineering
-- **Process Automation**: Python scripting, RPA with UiPath
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Process Automation**: Python scripting
 
 </details>
 
 ---
-
-## 🎯 Métricas de Impacto
-
-<dividir alinhar="centro">
-
-| Métrica | Valor | Descrição |
-##
-| 📊 **Pais Criados** | 50+ | Pais Power BI em produção |
-### ⚡ 📈 Inteligência e análise de negóciosMelhoria de desenvolvimento** | 75% | Otimização média em consultas SQL |
-|dividir**Oleodutos ETL** | 25+ | Oleodutos automatizados desenvolvidos |
-| 📈 **Dados Processados**imagem alinhar 1TB+ "centro" Volume mensal de dados processados alt
-| 🎯 **Precisão de Modelos**imagem alinhar 94% "centro" Precisão média dos modelos ML alt
-| 👥 **Usuários Impactados**imagem alinhar 500+ "centro" Profissionais usando soluções desenvolvidas alt
-
-</dividir>
-
----
-
-## 🌟 Certificações e Aprendizado
-
-</dividiralign="centro">
-
-### 🎨 Design e UX](https://img.shields.io/badge/Microsoft%20Certified-Data%20Analyst-blue?style=for-the-badge&logo=microsoft)
-![AWS](https://img.shields.io/badge/AWS-Data%20Analytics-orange?style=for-the-badge&logo=amazon-aws)
-![Nuvem do Google](https://img.shields.io/badge/GCP-Data%20Engineer-blue?style=for-the-badge&logo=google-cloud)
-
-</dividir>
-
----
-
-<dividir alinharimagem alinhar>
 
 ### 💭 *"Dados não mentem, mas eles precisam de ajudar para contar sua história."*
 
