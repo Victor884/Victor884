@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Joao Victor profile header" width="100%" />
+  <img src="./assets/victordev-blindfold-swordsman-banner.png" alt="Joao Victor profile header" width="100%" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ The work I like most is direct: collect the data, clean it, model it, automate t
 ---
 
 <p align="center">
-  <img src="./assets/project-card.svg" alt="Top projects card" width="100%" />
+  <img src="./assets/victordev-project-card-ink.png" alt="Top projects card" width="100%" />
 </p>
 
 ## Connect
