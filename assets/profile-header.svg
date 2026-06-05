@@ -1,0 +1,20 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="330" fill="#070A12"/>
+  <rect x="22" y="22" width="1156" height="286" rx="10" fill="#0B0F19" stroke="#222837"/>
+  <path d="M0 286 C180 230 330 322 510 268 C700 210 838 302 1200 226 V330 H0 Z" fill="#101827"/>
+  <path d="M0 302 C200 252 340 336 534 286 C742 232 882 314 1200 246" stroke="#293241" stroke-width="2"/>
+  <text x="72" y="126" fill="#F7F7F7" font-family="Georgia, serif" font-size="76" font-weight="700">Joao Victor</text>
+  <text x="78" y="166" fill="#9CA3AF" font-family="Consolas, monospace" font-size="24">DATA ANALYTICS // DATA ENGINEERING // PYTHON AUTOMATION</text>
+  <rect x="78" y="198" width="155" height="32" rx="4" fill="#030712" stroke="#2A3342"/>
+  <text x="100" y="220" fill="#F9FAFB" font-family="Consolas, monospace" font-size="16">PYTHON</text>
+  <rect x="248" y="198" width="118" height="32" rx="4" fill="#030712" stroke="#2A3342"/>
+  <text x="270" y="220" fill="#F9FAFB" font-family="Consolas, monospace" font-size="16">SQL</text>
+  <rect x="381" y="198" width="158" height="32" rx="4" fill="#030712" stroke="#2A3342"/>
+  <text x="403" y="220" fill="#F9FAFB" font-family="Consolas, monospace" font-size="16">POWER BI</text>
+  <rect x="554" y="198" width="165" height="32" rx="4" fill="#030712" stroke="#2A3342"/>
+  <text x="576" y="220" fill="#F9FAFB" font-family="Consolas, monospace" font-size="16">PYSPARK</text>
+  <circle cx="970" cy="142" r="72" fill="#F8FAFC"/>
+  <path d="M918 174 C950 118 1004 106 1032 78 C1016 135 1028 176 1040 214 C998 188 954 197 918 174 Z" fill="#0B0F19"/>
+  <path d="M884 248 C930 220 1014 216 1072 248" stroke="#E5E7EB" stroke-width="8" stroke-linecap="round"/>
+  <text x="858" y="286" fill="#9CA3AF" font-family="Consolas, monospace" font-size="15">clean data. reliable flows. useful dashboards.</text>
+</svg>

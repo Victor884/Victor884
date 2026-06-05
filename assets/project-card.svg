@@ -1,0 +1,22 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" fill="#070A12"/>
+  <rect x="22" y="22" width="1156" height="386" rx="10" fill="#0B0F19" stroke="#222837"/>
+  <text x="58" y="72" fill="#F9FAFB" font-family="Consolas, monospace" font-size="24" font-weight="700">Top Projects (built to remove manual work)</text>
+  <line x1="58" y1="96" x2="1142" y2="96" stroke="#263142"/>
+  <g font-family="Consolas, monospace" font-size="22">
+    <rect x="70" y="132" width="214" height="34" rx="4" fill="#020617"/>
+    <text x="88" y="156" fill="#F9FAFB">ETL WEATHER</text>
+    <text x="312" y="156" fill="#D1D5DB">API ingestion, Pandas transforms, n8n orchestration and webhook alerts.</text>
+    <rect x="70" y="200" width="214" height="34" rx="4" fill="#020617"/>
+    <text x="88" y="224" fill="#F9FAFB">GMAIL AI</text>
+    <text x="312" y="224" fill="#D1D5DB">LLM + rules classifier with Gmail API, GitHub Actions and Telegram digest.</text>
+    <rect x="70" y="268" width="214" height="34" rx="4" fill="#020617"/>
+    <text x="88" y="292" fill="#F9FAFB">BI DASHBOARDS</text>
+    <text x="312" y="292" fill="#D1D5DB">Power BI, SQL, DAX and KPI storytelling for executive decisions.</text>
+    <rect x="70" y="336" width="214" height="34" rx="4" fill="#020617"/>
+    <text x="88" y="360" fill="#F9FAFB">DATA PIPELINES</text>
+    <text x="312" y="360" fill="#D1D5DB">PySpark, Databricks, IBM DataStage, Data Quality and warehouse modeling.</text>
+  </g>
+  <path d="M1016 136 C1086 178 1094 274 1034 336 C1078 288 1014 252 1048 198 C1008 232 1006 286 954 318 C986 274 930 248 976 194 C980 170 996 150 1016 136 Z" fill="#F9FAFB"/>
+  <path d="M1012 176 C1046 208 1046 266 1018 306 C1026 262 982 250 1004 214 C982 230 974 272 946 300 C960 256 924 238 956 204 C974 196 990 188 1012 176 Z" fill="#0B0F19"/>
+</svg>
