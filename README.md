@@ -12,6 +12,9 @@
   <a href="mailto:joaovictor27032004udf@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://looking.cv/dev-joao-matos">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 <p align="center">
@@ -95,7 +98,7 @@ The work I like most is direct: collect the data, clean it, model it, automate t
   <a href="mailto:joaovictor27032004udf@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/joaomatosdev">
+  <a href="https://looking.cv/dev-joao-matos">
     <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
