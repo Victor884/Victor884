@@ -112,20 +112,12 @@ The work I like most is direct: collect the data, clean it, model it, automate t
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Victor884&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=05070D&title_color=F9FAFB&text_color=D1D5DB&icon_color=F9FAFB" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor884&layout=compact&theme=github_dark&hide_border=true&bg_color=05070D&title_color=F9FAFB&text_color=D1D5DB" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor884&theme=dark&hide_border=true&background=05070D&ring=F9FAFB&fire=F9FAFB&currStreakLabel=F9FAFB" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor884&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor884&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="./assets/contribution-card.svg" alt="Contribution focus graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor884&theme=github-dark&hide_border=true&area=true&bg_color=05070D&color=F9FAFB&line=F9FAFB&point=FFFFFF" alt="GitHub contribution activity graph" />
 </p>
 
 ---
